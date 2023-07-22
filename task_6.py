@@ -102,6 +102,7 @@ def procMoney(money):
         print(money)
     return money
 
+
 # начисление процента после каждой 3-ей операции
 def thirdOper():
     global balance
