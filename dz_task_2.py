@@ -7,6 +7,7 @@
 # Вывод:
 # 5/6 1/6
 
+
 import math
 import fractions
 
